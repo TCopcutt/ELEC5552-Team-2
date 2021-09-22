@@ -1,1 +1,1 @@
-# This is the RX configuration file of CC1310 exported using SmartRF.
+# This is the configuration file of CC1310 exported using SmartRF.
