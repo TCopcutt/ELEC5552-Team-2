@@ -1,1 +1,1 @@
-Final design (ver 1.1), CC1310 configuration file. Set different frequency with RX & TX, symbol rate is 500 kbuad, UART pin are DIO5(pin10) & DIO6(pin11)
+Final design (ver 1.1), include TX_433,TX_922, RX_433 & RX_922. These are CC1310 configuration and initialization file. Set different frequency with RX & TX, symbol rate is 500 kbuad, UART pin are DIO5(pin10) & DIO6(pin11)
