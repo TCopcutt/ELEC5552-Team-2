@@ -1,0 +1,83 @@
+[Start: Texas Instruments XDS110 USB Debug Probe]
+
+Execute the command:
+
+%ccs_base%/common/uscif/dbgjtag -f %boarddatafile% -rv -o -S integrity
+
+[Result]
+
+
+-----[Print the board config pathname(s)]------------------------------------
+
+C:\Users\Wenze\AppData\Local\TEXASI~1\CCS\
+    ccs1040\0\0\BrdDat\testBoard.dat
+
+-----[Print the reset-command software log-file]-----------------------------
+
+This utility has selected a 100- or 510-class product.
+This utility will load the adapter 'jioxds110.dll'.
+The library build date was 'Jun 25 2021'.
+The library build time was '11:45:30'.
+The library package version is '9.4.0.00129'.
+The library component version is '35.35.0.0'.
+The controller does not use a programmable FPGA.
+The controller has a version number of '5' (0x00000005).
+The controller has an insertion length of '0' (0x00000000).
+This utility will attempt to reset the controller.
+This utility has successfully reset the controller.
+
+-----[Print the reset-command hardware log-file]-----------------------------
+
+The scan-path will be reset by toggling the JTAG TRST signal.
+The controller is the XDS110 with USB interface.
+The link from controller to target is direct (without cable).
+The software is configured for XDS110 features.
+The controller cannot monitor the value on the EMU[0] pin.
+The controller cannot monitor the value on the EMU[1] pin.
+The controller cannot control the timing on output pins.
+The controller cannot control the timing on input pins.
+The scan-path link-delay has been set to exactly '0' (0x0000).
+
+-----[Perform the Integrity scan-test on the JTAG IR]------------------------
+
+This test will use blocks of 64 32-bit words.
+This test will be applied just once.
+
+Do a test using 0xFFFFFFFF.
+Scan tests: 1, skipped: 0, failed: 0
+Do a test using 0x00000000.
+Scan tests: 2, skipped: 0, failed: 0
+Do a test using 0xFE03E0E2.
+Scan tests: 3, skipped: 0, failed: 0
+Do a test using 0x01FC1F1D.
+Scan tests: 4, skipped: 0, failed: 0
+Do a test using 0x5533CCAA.
+Scan tests: 5, skipped: 0, failed: 0
+Do a test using 0xAACC3355.
+Scan tests: 6, skipped: 0, failed: 0
+All of the values were scanned correctly.
+
+The JTAG IR Integrity scan-test has succeeded.
+
+-----[Perform the Integrity scan-test on the JTAG DR]------------------------
+
+This test will use blocks of 64 32-bit words.
+This test will be applied just once.
+
+Do a test using 0xFFFFFFFF.
+Scan tests: 1, skipped: 0, failed: 0
+Do a test using 0x00000000.
+Scan tests: 2, skipped: 0, failed: 0
+Do a test using 0xFE03E0E2.
+Scan tests: 3, skipped: 0, failed: 0
+Do a test using 0x01FC1F1D.
+Scan tests: 4, skipped: 0, failed: 0
+Do a test using 0x5533CCAA.
+Scan tests: 5, skipped: 0, failed: 0
+Do a test using 0xAACC3355.
+Scan tests: 6, skipped: 0, failed: 0
+All of the values were scanned correctly.
+
+The JTAG DR Integrity scan-test has succeeded.
+
+[End: Texas Instruments XDS110 USB Debug Probe]
