@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/A_FPGA_FILE/10_9_uart/rx
+vuart_byte_rx
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 M6o?;mgEB_98iUOd:FHWV1
+IhUkR]`2e80zZHiVGid6Mj0
+R0
+w1633402561
+8E:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_rx.v
+FE:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_rx.v
+L0 1
+Z2 OL;L;10.6d;65
+Z3 !s108 1633784927.000000
+!s107 E:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_rx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_rx.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+vuart_byte_rx_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 N<;6YdPMI<fZPI>bgQkh20
+ISiEndB]aoN9lCl=LH8Mg:1
+R0
+w1633784883
+8E:/A_FPGA_FILE/10_9_uart/rx/uart_byte_rx_tb.v
+FE:/A_FPGA_FILE/10_9_uart/rx/uart_byte_rx_tb.v
+L0 4
+R2
+R3
+!s107 E:/A_FPGA_FILE/10_9_uart/rx/uart_byte_rx_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/A_FPGA_FILE/10_9_uart/rx/uart_byte_rx_tb.v|
+!i113 0
+R4
+R5
+vuart_byte_tx
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 h^0^MY_@VciKeH8eo1WUi3
+IdHeZcWC;fziiiWO0hcXgI1
+R0
+w1633402585
+8E:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_tx.v
+FE:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_tx.v
+L0 1
+R2
+R3
+!s107 E:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_tx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/A_FPGA_FILE/10_9_uart/rx/src/uart_byte_tx.v|
+!i113 0
+R4
+R5
+vuart_rx_top
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 P3S3R^8BCTRYm]A>n:cE;2
+I@7jO4;HGQSWk6o9<QH^1f0
+R0
+w1633784923
+8E:/A_FPGA_FILE/10_9_uart/rx/src/uart_rx_top.v
+FE:/A_FPGA_FILE/10_9_uart/rx/src/uart_rx_top.v
+L0 1
+R2
+R3
+!s107 E:/A_FPGA_FILE/10_9_uart/rx/src/uart_rx_top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/A_FPGA_FILE/10_9_uart/rx/src/uart_rx_top.v|
+!i113 0
+R4
+R5

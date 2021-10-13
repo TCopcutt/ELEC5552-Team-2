@@ -1,0 +1,29 @@
+E:/A_FPGA_FILE/10_9_uart/tx/src/uart_tx_top.v {1 {vlog -work work -vopt -stats=none E:/A_FPGA_FILE/10_9_uart/tx/src/uart_tx_top.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module uart_tx_top
+
+Top level modules:
+	uart_tx_top
+
+} {} {}} E:/A_FPGA_FILE/10_9_uart/tx/src/key_filter.v {1 {vlog -work work -vopt -stats=none E:/A_FPGA_FILE/10_9_uart/tx/src/key_filter.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module key_filter
+
+Top level modules:
+	key_filter
+
+} {} {}} E:/A_FPGA_FILE/10_9_uart/tx/src/uart_byte_tx.v {1 {vlog -work work -vopt -stats=none E:/A_FPGA_FILE/10_9_uart/tx/src/uart_byte_tx.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module uart_byte_tx
+
+Top level modules:
+	uart_byte_tx
+
+} {} {}} E:/A_FPGA_FILE/10_9_uart/tx/uart_byte_tx_tb.v {1 {vlog -work work -vopt -stats=none E:/A_FPGA_FILE/10_9_uart/tx/uart_byte_tx_tb.v
+Model Technology ModelSim SE-64 vlog 10.6d Compiler 2018.02 Feb 24 2018
+-- Compiling module uart_byte_tx_tb
+
+Top level modules:
+	uart_byte_tx_tb
+
+} {} {}}
