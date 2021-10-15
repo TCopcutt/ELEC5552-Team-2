@@ -1,0 +1,27 @@
+\documentclass[11pt, a4paper]{article}
+%TC:ignore
+\input{preamble}
+
+\begin{document}
+
+\input{cover}
+\maketitle
+\pagebreak
+\input{abstract}
+
+\tableofcontents
+\pagebreak
+%TC:endignore 
+\input{paper}
+
+%TC:ignore
+\input{appendix}
+
+%\bibliography{biblio} 
+%\bibliographystyle{apa}
+\newpage
+\printbibliography
+%TC:endignore 
+\newpage
+%\wordcount
+\end{document}

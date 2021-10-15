@@ -1,0 +1,113 @@
+%!TEX root = main.tex
+%Packages
+	%Aussie language
+	\usepackage[australian]{babel}
+
+	%text st
+	\usepackage{hyperref}
+	\usepackage{comment}
+
+	%bibliography
+	%\usepackage[autostyle]{csquotes} %for apa
+	\usepackage[backend=biber,style=ieee]{biblatex}
+	%\DeclareLanguageMapping{american}{american-apa} %for apa
+	\bibliography{biblio}
+
+	\usepackage{verbatim}
+
+	%math symbols
+	\usepackage{amsmath}
+	\usepackage{amssymb}
+	\usepackage{amsfonts}
+	\usepackage{mathtools}
+	\usepackage[separate-uncertainty=true]{siunitx}
+	\usepackage{cancel}
+	%\usepackage{chemformula}
+	\usepackage{physics}
+
+	% Importing files
+	\usepackage{esvect}
+	\usepackage{graphicx}
+	\usepackage{caption}
+	\usepackage{pdfpages}
+
+	%figures
+	%\usepackage{chemfig}
+	\usepackage[american,siunitx]{circuitikz}
+	\usetikzlibrary{calc}
+	\usepackage{tikz}
+
+	%coding
+	% \usepackage{minted}
+	% \usepackage{xcolor}
+	% \usepackage{colortbl}
+
+	
+
+
+%Definitions
+	%set graphics path for default illustrator export path.
+	\graphicspath{{PDF/}}
+
+	%spelling litre properly
+	\let\oldlitre\litre
+	\DeclareSIUnit{\litre}{\liter}
+
+	%spelling itemise properly
+	\newenvironment{itemise}
+	{\begin{itemize}}
+	{\end{itemize}}
+
+	%Conditions env for equations
+	\usepackage{array}
+	\newenvironment{conditions}[1][where:]
+  		{#1 \begin{tabular}[t]{>{$}l<{$} @{${}={}$} l}}
+  		{\end{tabular}\\[\belowdisplayskip]}
+  	\newenvironment{conditions*}
+  		{\par\vspace{\abovedisplayskip}\noindent
+   		\tabularx{\columnwidth}{>{$}l<{$} @{${}={}$} >{\raggedright\arraybackslash}X}}
+  		{\endtabularx\par\vspace{\belowdisplayskip}}
+
+	% No indent on new paragraphs
+	%\setlength{\parindent}{0mm}
+	%\setlength{\parskip}{0.2cm}
+
+	%minted options
+	% \definecolor{monokaibg}{HTML}{272822}
+	% \usemintedstyle{monokai}
+	% \setminted{tabsize=4, obeytabs, bgcolor=monokaibg, linenos, breaklines}
+
+	%Count of words
+	\immediate\write18{texcount -inc 
+	-sum main.tex > /tmp/wordcount.tex}
+	\newcommand\wordcount{
+	\verbatiminput{/tmp/wordcount.tex}}
+
+	%change margins
+	\usepackage[margin=2.54cm]{geometry}
+
+	%bold vector command
+	\let\vecl\vec
+	\renewcommand{\vec}[1]{\mathbf{#1}}
+	%bold hat vectors
+	\let\oldhat\hat
+	\renewcommand{\hat}[1]{\oldhat{\mathbf{#1}}}
+
+	%element of
+	\newcommand{\ele}{\in \!\,}
+
+	%set of real numbers R
+	\newcommand{\R}{\mathbb{R}}
+
+	%imaginary j
+	\renewcommand{\j}{\mathrm{j}}
+
+	%sinc function
+	\DeclareMathOperator{\sinc}{sinc}
+
+	%rect function
+	\DeclareMathOperator{\rect}{rect}
+
+
+	% Tag equation with name
+	\newcommand{\eqname}[1]{\tag*{#1}}
