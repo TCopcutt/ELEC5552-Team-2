@@ -1,0 +1,675 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cap",
+				"\\caption{title}                                   \tlatex-document"
+			],
+			[
+				"ca",
+				"\\caption{title}                                   \tlatex-document"
+			],
+			[
+				"ben",
+				"\\begin{}                                          \tlatex-document"
+			],
+			[
+				"cal",
+				"calc_round"
+			],
+			[
+				"subsubsection",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"subsub",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"bib",
+				"\\bibliography{file}                               \tlatex-document"
+			],
+			[
+				"include",
+				"\\includegraphics[options]{name}                   \tlatex-document"
+			],
+			[
+				"tab",
+				"\\tableofcontents                                  \tlatex-document"
+			],
+			[
+				"get",
+				"get_member"
+			],
+			[
+				"lobby",
+				"lobby_list"
+			],
+			[
+				"people",
+				"peoplein"
+			],
+			[
+				"peopl",
+				"peoplein"
+			],
+			[
+				"te",
+				"\\text{word or phrase}                             \tamsmath"
+			],
+			[
+				"beginta",
+				"\\begin{table}                                     \tlatex-document"
+			],
+			[
+				"t",
+				"\\text{word or phrase}                             \tamsmath"
+			],
+			[
+				"begin",
+				"\\begin{equation*}                                 \tamsmath"
+			],
+			[
+				"sec",
+				"\\section{title}                                   \tlatex-document"
+			],
+			[
+				"inc",
+				"\\includegraphics{name}                            \tlatex-document"
+			],
+			[
+				"SI",
+				"\\SI{value}{unit commands}                         \tsiunitx"
+			],
+			[
+				"begingat",
+				"\\begin{gathered}                                  \tamsmath"
+			],
+			[
+				"subsu",
+				"\\subsubsection{title}                             \tlatex-document"
+			],
+			[
+				"beg",
+				"\\begin{enumerate}                                 \tlatex-document"
+			],
+			[
+				"beginite",
+				"\\begin{itemise}\t                                  \tlatex-document"
+			],
+			[
+				"righ",
+				"\\right)                                           \tlatex-document"
+			],
+			[
+				"left",
+				"\\left(                                            \tlatex-document"
+			],
+			[
+				"be",
+				"\\begin{enumerate}                                 \tlatex-document"
+			],
+			[
+				"begindo",
+				"\\begin{document}                                  \tlatex-document"
+			],
+			[
+				"begineq",
+				"begin{equation*}\tamsmath"
+			],
+			[
+				"D",
+				"Delta\tlatex-mathsymbols"
+			],
+			[
+				"beginequat",
+				"\\begin{equation*}                                 \tamsmath"
+			],
+			[
+				"beginitem",
+				"\\begin{itemise}\t                                  \tlatex-document"
+			],
+			[
+				"itemise",
+				"\\begin{itemise}                                   \tlocal"
+			],
+			[
+				"beginit",
+				"\\begin{itemise}                                   \tlocal"
+			],
+			[
+				"begini",
+				"\\begin{itemise}                                   \tlocal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "preamble.tex",
+			"settings":
+			{
+				"buffer_size": 2468,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "paper.tex",
+			"settings":
+			{
+				"buffer_size": 22,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.tex",
+			"settings":
+			{
+				"buffer_size": 354,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "abstract.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "appendix.tex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "biblio.bib",
+			"settings":
+			{
+				"buffer_size": 0,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "cover.tex",
+			"settings":
+			{
+				"buffer_size": 46,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"LaTeXTools: Update document analysis cache"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis\t",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"sni",
+				"Snippet: Itemize"
+			],
+			[
+				"inst",
+				"Package Control: Install Local Dependency"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"ls",
+			"info",
+			"bash"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Cache/LaTeXTools/internal/preview_math/efab697293048a5729c72568d3c11ac2.png.err",
+		"/Users/Tom/Desktop/tablelol.csv",
+		"/Users/Tom/Desktop/assignment/cover.tex",
+		"/Users/Tom/Desktop/assignment/main.tex",
+		"/Users/Tom/Desktop/assignment/appa.tex",
+		"/Users/Tom/Desktop/assignment/abstract.tex",
+		"/Users/Tom/Desktop/assignment/preamble.tex",
+		"/Users/Tom/Desktop/assignment/biblio.bib",
+		"/Users/Tom/Desktop/assignment/paper.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/CITS2401/lab2/water2.py",
+		"/Users/Tom/Documents/uni/Sem 1 2018/CITS2401/lab2/water.py",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/appa.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/abstract.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/cover.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/preamble.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/main.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/biblio.bib",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment/paper.tex",
+		"/Users/Tom/Documents/uni/Sem 1 2018/MGMT1135/assignment/assignment.tex",
+		"/Users/Tom/Desktop/equation tex/equation.tex",
+		"/Users/Tom/Documents/Red-DiscordBot/cogs/supermod.py",
+		"/Users/Tom/Documents/Red-DiscordBot/data/supermod/messages.json",
+		"/Users/Tom/Documents/uni/ Sem 2 2017/PHYS1001/notes.tex",
+		"/Users/Tom/Desktop/secretsanta.py",
+		"/Users/Tom/Desktop/a",
+		"/Users/Tom/Documents/uni/ Sem 2 2017/CHEM1001/notes.tex",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/Default (OSX).sublime-keymap",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeXTools.sublime-settings",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/LaTeXTools/LaTeXTools (Advanced).sublime-settings",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/User/LaTeX.sublime-completions",
+		"/Users/Tom/Desktop/test/test.tex",
+		"/Users/Tom/Documents/uni/ Sem 2 2017/ENSC1002/notes/notes.tex",
+		"/Users/Tom/Documents/uni/ Sem 2 2017/MATH1012/notes.tex",
+		"/Users/Tom/Documents/ Sem 2 2017/PHYS1001/calcs.tex",
+		"/Users/Tom/Documents/ Sem 1 2017/MATH1011/MATH1011-Notes/notes.tex",
+		"/Users/Tom/Documents/ Sem 2 2017/MATH1012/notes.tex",
+		"/Users/Tom/Library/Application Support/Sublime Text 3/Packages/User/LaTeX.sublime-build",
+		"/Users/Tom/Downloads/calcs.tex",
+		"/Users/Tom/Documents/ Sem 1 2017/ECON1102/Individual Report/report.tex"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"however",
+			"citeautho",
+			"figure",
+			"diag",
+			"captionof",
+			"antinode",
+			"epsilon",
+			"\t",
+			", ",
+			" ",
+			"G",
+			"G H H G G G G\nG\n",
+			"G",
+			" \\{\\",
+			"\\left",
+			"\\right",
+			"\\left"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "preamble.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								587,
+								587
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 676.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "paper.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"spell_check": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "abstract.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "appendix.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "biblio.bib",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeXTools/BibLaTeX.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "cover.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 46,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 190.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/LaTeX.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
